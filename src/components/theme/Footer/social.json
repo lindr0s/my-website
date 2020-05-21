@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Telegram",
+    "link": "https://t.me/dislorn",
+    "icon": "/icons/telegram.svg"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/linddan",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "StackOverflow",
+    "link": "https://stackoverflow.com/users/story/1717873",
+    "icon": "/icons/stackoverflow.svg"
+  }
+]
